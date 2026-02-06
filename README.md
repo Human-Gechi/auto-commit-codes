@@ -1,4 +1,4 @@
-"# auto-commit-codes"
+# 🚀 Auto commit code
 
 ## This is a repository to automatically update the repository for my daily_sql_problems by running the sql_upload.py script
 
